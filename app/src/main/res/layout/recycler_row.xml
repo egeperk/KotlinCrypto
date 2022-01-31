@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:id="@+id/coinText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEST"
+        android:textSize="26sp"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/white"
+        >
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/priceText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEST"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/white"
+        >
+
+    </TextView>
+
+
+</LinearLayout>
